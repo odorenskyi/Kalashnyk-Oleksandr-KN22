@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678411249 source:c:\users\acer\desktop\нова папка\kalashnyk_task\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<locale.h>
+
