@@ -3,6 +3,8 @@
 #include <math.h>
 #include <locale.h>
 
+#include "ModulesKalashnyk.h"
+
 using namespace std;
 
 void SoftwareDevelop(void){
@@ -58,7 +60,7 @@ int main()
     else
         cout << "\n" <<0;
     cout << "\n\n\n___________________________________________"<< endl;
-    cout << "\n¬вед≥ть числа x, y та z дл€ переводу в дес€ткову та ш≥стнадц€ткову систему числен€€" << endl;
+    cout << "\n¬вед≥ть числа x, y та z дл€ переводу в дес€ткову та ш≥стнадц€ткову систему численн€" << endl;
     cout << "\n___________________________________________"<< endl;
     cout << "\n¬вед≥ть число X: ";
     cin >> x;
@@ -70,5 +72,6 @@ int main()
     HexDecimal(x, y, z);
     cout << endl;
 
+    cout << "–езультат обчисленн€ виразу: S = " << s_calculation(x, y, z) << endl;
     return 0;
 }
