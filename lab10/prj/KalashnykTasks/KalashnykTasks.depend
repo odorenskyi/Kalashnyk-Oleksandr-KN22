@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685661866 source:c:\users\acer\documents\githome\kalashnyk-oleksandr-kn22\lab10\prj\kalashnyktasks\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	"ModulesKalashnyk.h"
+	<locale.h>
+	<random>
+
+1685634716 c:\users\acer\documents\githome\kalashnyk-oleksandr-kn22\lab10\prj\moduleskalashnyk\moduleskalashnyk.h
+
