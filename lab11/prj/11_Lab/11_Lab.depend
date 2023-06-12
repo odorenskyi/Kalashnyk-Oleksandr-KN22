@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1686150045 source:c:\users\acer\documents\githome\kalashnyk-oleksandr-kn22\lab10\prj\11_lab\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits>
+	<locale.h>
+
+1686510225 source:c:\users\acer\documents\githome\kalashnyk-oleksandr-kn22\lab11\prj\11_lab\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits>
+	<windows.h>
+	"..\struct_type_project13.h"
+
+1686509938 c:\users\acer\documents\githome\kalashnyk-oleksandr-kn22\lab11\prj\struct_type_project13.h
+
