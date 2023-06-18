@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1687125331 source:c:\users\acer\documents\githome\kalashnyk-oleksandr-kn22\lab12\prj\lab_12\main.cpp
+	<iostream>
+	<Windows.h>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+
